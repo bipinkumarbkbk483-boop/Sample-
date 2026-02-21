@@ -1,7 +1,8 @@
 ### **Table of content**
 1. [Introduction](#Introduction)
-2. [Point to be noted](#Point to be noted)
-[Hands-on projects]
+2. [Point to be noted](#2.Point to be noted)
+3. 
+
 
 
 
