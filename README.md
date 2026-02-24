@@ -6,11 +6,7 @@
 | [On Page SEO](#On-Page-SEO)  | Content optimization, keyword mapping |
 | [Off Page SEO](#Off-Page-SEO)  | Backlink strategy |
 | [Local SEO](#Local-SEO)    | GSC, Ahrefs, SEMrush |
-
-[On Page SEO](#On-Page-SEO)<br/>
-[Off Page SEO](#Off-Page-SEO)<br/>
-[Local SEO](#Local-SEO)<br/>
-[Anchor Text](#Anchor-Text)<br/>
+| Anchor Text | Naked anchor text, Exact Match, Mix Anchor Text |
 
 <br/>
 Headers: These are the headings and subheadings on your web page. They break up your content and make it easier to read. They also help search engines understand the structure of your page.
