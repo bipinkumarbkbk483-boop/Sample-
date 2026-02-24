@@ -3,7 +3,7 @@
 [On Page SEO](#On-Page-SEO)<br/>
 [Off Page SEO](#Off-Page-SEO)<br/>
 [Local SEO](#Local-SEO)<br/>
-[Anchor Text](#Anshor-Text)<br/>
+[Anchor Text](#Anchor-Text)<br/>
 
 <br/>
 Headers: These are the headings and subheadings on your web page. They break up your content and make it easier to read. They also help search engines understand the structure of your page.
