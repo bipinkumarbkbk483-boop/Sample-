@@ -1,5 +1,12 @@
 ### Table Of Content
 
+| SEO Area        | Work Done |
+|---------------|-----------|
+| Technical SEO | Fixed crawl errors, optimized CWV |
+| [On Page SEO](#On-Page-SEO)  | Content optimization, keyword mapping |
+| [Off Page SEO](#Off-Page-SEO)  | Backlink strategy |
+| [Local SEO](#Local-SEO)    | GSC, Ahrefs, SEMrush |
+
 [On Page SEO](#On-Page-SEO)<br/>
 [Off Page SEO](#Off-Page-SEO)<br/>
 [Local SEO](#Local-SEO)<br/>
