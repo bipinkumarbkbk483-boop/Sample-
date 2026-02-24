@@ -1,9 +1,9 @@
 ### Table Of Content
 
-[On Page SEO](#On-Page-SEO)
-[Off Page SEO](#Off-Page-SEO)
-[Local SEO](#Local-SEO)
-[Anchor Text](#Anshor-Text)
+[On Page SEO](#On-Page-SEO)<br/>
+[Off Page SEO](#Off-Page-SEO)<br/>
+[Local SEO](#Local-SEO)<br/>
+[Anchor Text](#Anshor-Text)<br/>
 
 <br/>
 Headers: These are the headings and subheadings on your web page. They break up your content and make it easier to read. They also help search engines understand the structure of your page.
