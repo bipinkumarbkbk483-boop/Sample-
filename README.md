@@ -6,6 +6,7 @@
 | [On Page SEO](#On-Page-SEO)  | Content optimization, keyword mapping |
 | [Off Page SEO](#Off-Page-SEO)  | Backlink strategy |
 | [Local SEO](#Local-SEO)    | GSC, Ahrefs, SEMrush |
+|------------------|---------------|
 | Anchor Text | Naked anchor text, Exact Match, Mix Anchor Text |
 
 <br/>
